@@ -1,0 +1,4 @@
+2024-10-01 21:45:04,208 - INFO - Starting a new loop iteration with community profiles...
+2024-10-01 21:45:04,594 - ERROR - Error fetching profiles from the community page: 500 Server Error: Internal Server Error for url: https://api-v2.lens.dev/community-page
+2024-10-01 21:45:04,595 - ERROR - Error during loop iteration: no such column: full_handle
+2024-10-01 21:45:04,595 - INFO - Sleeping for 600 seconds before next iteration.
